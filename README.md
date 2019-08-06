@@ -1,3 +1,6 @@
+The tutorial is reffered in [Banzai Cloud](https://banzaicloud.com/blog/k8s-admission-webhooks/)
+
+
 # Kubernetes Admission Webhook example
 
 This tutoral shows how to build and deploy an [AdmissionWebhook](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/#admission-webhooks).
